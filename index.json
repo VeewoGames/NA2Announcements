@@ -12,6 +12,14 @@
         "title": "更新1",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/11/cn.md"
       }
+    },
+    {
+      "date": "2025-01-29",
+      "default": {
+        "title": "首次Playtest开启",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/10/en.md"
+      },
+      "zh-CN": {}
     }
   ]
 }
