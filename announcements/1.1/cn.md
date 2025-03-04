@@ -2,7 +2,7 @@
 
 这里是更新的内容
 
-![image](20250304_153312_1775021492702807809.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/1.1/20250304_153945_5568168387272321175.png)
 
 这行上面有个GIF
 
