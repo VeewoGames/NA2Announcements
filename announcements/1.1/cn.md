@@ -1,12 +1,11 @@
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/1.1/20250312_153935_4344812197187565180.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/1.1/20250312_154053_1986559618776808431.png)
 
-新建一个公告组标签
+# 流程
 
-写中英文公告，同时添加刚才新建的标签
-
-运行同步程序
+* 新建一个公告组标签
+* 写中英文公告，同时添加刚才新建的标签
+* 运行同步程序
 http://192.168.2.126:5000/
-
 ## 优缺点
 
 # 优点
