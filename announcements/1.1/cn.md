@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/1.1/20250312_153633_546795976865509968.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/1.1/20250312_153935_4344812197187565180.png)
 
 新建一个公告组标签
 
