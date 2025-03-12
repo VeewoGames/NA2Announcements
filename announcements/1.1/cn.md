@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/1.1/20250312_154302_8259319922744472333.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/1.1/20250312_160100_6193349969047144787.png)
 
 # 流程
 
