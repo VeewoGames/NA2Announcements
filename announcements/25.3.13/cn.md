@@ -1,5 +1,3 @@
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/25.3.13/20250314_140404_5494474482230528215.png)
-
 # **首次公开测试开启**
 
 亲爱的先驱特工：
