@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "date_changed": "2025-03-14 20:50",
+  "date_changed": "2025-03-14 23:30",
   "announcements": [
     {
       "date": "2025-03-14",
       "default": {
-        "title": "Playtest is OPEN",
+        "title": "WELCOME",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/25.3.13/en.md"
       },
       "zh-CN": {
-        "title": "首次测试开启",
+        "title": "欢迎",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/25.3.13/cn.md"
       }
     }
