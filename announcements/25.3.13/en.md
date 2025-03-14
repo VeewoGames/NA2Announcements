@@ -1,12 +1,16 @@
-# **First Playtest Begins**
+# **OFFICIAL PLAYTEST COMMENCES**
 
-Dear Pioneer Agent:
+Pioneer Agent,
 
-Congratulations on being selected as the vanguard of the Blackdog Squad—the key to the Abyss Gateway 2.0 is now in your hands!
+Congratulations on being chosen as the vanguard of the Blackdog Squad. Access codes to **Abyss Gateway 2.0** have been deployed to your terminal.
 
-This test will be the first time the core combat module is opened to agents, and we look forward to perfecting the ultimate form of the Neon World together with you. Since the game is still in development, many contents and mechanics may be subject to changes and adjustments. Of course, you may also encounter some bugs, but please don't be upset.
+This inaugural test activates the core combat module for agent evaluation. Together, we shall refine the Neon World into its ultimate form. Please note:
 
-### Test Content Includes
+* The game remains in active development; mechanics, content, and balance may change.
+* Expect potential anomalies/bugs. Your composure and feedback are invaluable.
+# **TEST PARAMETERS**
+
+### **CONTENT**
 
 * 24 Soulforged Weapons, each with a unique combat style
 * 4 Normal Bosses, 1 Manager
@@ -14,16 +18,20 @@ This test will be the first time the core combat module is opened to agents, and
 * Over 70 Magic Artifacts
 * Over 70 Relics
 * 5 Levels
-### **Test Notes**
+### NOTES
 
 * This test will last for 7 days and will close on March 27.
-* Peripheral systems will not be open during this test, and no data will be retained.
-* Only single-player mode is available in this test; multiplayer functionality is temporarily unavailable.
-* When encountering a bug, press **[F3]** to submit it and help us optimize the game.
-* Any feedback on your experience (including but not limited to gameplay suggestions/control experience/art evaluation) can be submitted via **[F4]**.
-Every feedback and suggestion you submit will become the cornerstone of the official version.
+* Peripheral Progression Systems will not be open during this test, and no data will be retained.
+* Only single-player mode is available in this test; multiplayer mode is temporarily unavailable.
+### **REPORTING**
 
-Now, please grip your weapon, adjust the resonance frequency of your cybernetic body, and let the neon of the abyss flicker anew because of you.
+* When encountering a bug, press **F3** to submit it and help us optimize the game.
+* Submit feedback (combat flow/gameplay suggestions/weapon controls/etc.) via **F4**.
+Every report shapes the final build.
+
+Arm yourself. Synchronize neural interfaces.
+
+**Make the Abyss burn neon with your legacy.**
 
 Veewo Games
 
