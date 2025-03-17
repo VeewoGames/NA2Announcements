@@ -28,17 +28,21 @@ This inaugural test activates the core combat module for agent evaluation. Toget
 * Multiplayer mode is temporarily unavailable.
 ### **REPORTING**
 
-* When encountering a bug, press **F3** to submit it and help us optimize the game.
-* Submit feedback (combat flow/gameplay suggestions/weapon controls/etc.) via **F4**.
+* When encountering a bug, press <sprite name="keyboard_F3"> to submit it and help us optimize the game.
+* Submit feedback (combat flow/gameplay suggestions/weapon controls/etc.) via <sprite name="keyboard_F4">.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 Every report shapes the final build.
 
 Arm yourself. Synchronize soul interfaces.
 
-**Make the Abyss burn neon with your legacy.**
+Make the Abyss burn neon with your legacy.
 
-Veewo Games
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+**Veewo Games**
 
 Discord https://discord.gg/veewo
 
-Add Wishlist
+Add Wishlist https://store.steampowered.com/app/2235200/Neon_Abyss_2/
 
