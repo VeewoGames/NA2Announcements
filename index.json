@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date_changed": "2025-03-15 00:09",
+  "date_changed": "2025-03-17 09:23",
   "announcements": [
     {
-      "date": "2025-03-16",
+      "date": "2025-03-17",
       "default": {
         "title": "WELCOME",
-        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/25.3.15/en.md"
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/25.3.16/en.md"
       },
       "zh-CN": {
         "title": "欢迎",
-        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/25.3.15/cn.md"
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/25.3.16/cn.md"
       }
     }
   ]
