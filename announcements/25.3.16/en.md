@@ -29,7 +29,7 @@ This inaugural test activates the core combat module for agent evaluation. Toget
 ### **REPORTING**
 
 * Submit bugs via **F3** to help us optimize the game.
-* Submit feedback or suggestions via **F4 **(combat /gameplay /weapon/etc).
+* Submit feedback or suggestions via **F4**  (combat /gameplay /weapon/etc).
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Every report shapes the final build.
