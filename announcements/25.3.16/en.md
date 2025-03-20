@@ -15,7 +15,7 @@ This inaugural test activates the core combat module for agent evaluation. Toget
 ### **CONTENT**
 
 * 24 Soulforged Weapons, each with a unique combat style
-* 4 Normal Bosses, 1 Manager
+* 6 Normal Bosses, 1 Manager
 * Over 400 Artifacts
 * Over 70 Magic Artifacts
 * Over 70 Relics
