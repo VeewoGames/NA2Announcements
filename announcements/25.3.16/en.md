@@ -21,6 +21,7 @@ This inaugural test activates the core combat module for agent evaluation. Toget
 * Over 70 Relics
 * 3 Faiths
 * 5 Levels
+* 1 Agent
 ### NOTES
 
 * This test will last for 7 days and will close on March 27.
