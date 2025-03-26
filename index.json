@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "date_changed": "2025-03-25 19:39",
+  "date_changed": "2025-03-26 15:17",
   "announcements": [
+    {
+      "date": "2025-03-26 15:17",
+      "default": {
+        "title": "1st Playtest Completion",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/25.3.26/en.md"
+      },
+      "zh-CN": {
+        "title": "测试结束公告",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/25.3.26/cn.md"
+      }
+    },
     {
       "date": "2025-03-25 19:38",
       "default": {
