@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "date_changed": "2025-04-16 15:18",
+  "announcements": [
+    {
+      "date": "2025-04-16 15:18",
+      "default": {
+        "title": "NO PERMISSIONS",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/Offline/en.md"
+      },
+      "zh-CN": {
+        "title": "测试暂未开放",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/Offline/cn.md"
+      }
+    }
+  ]
+}
