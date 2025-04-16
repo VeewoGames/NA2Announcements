@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "date_changed": "2025-04-16 15:20",
+  "announcements": [
+    {
+      "date": "2025-04-16 11:43",
+      "default": {
+        "title": "Multiplayer Test",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/25.4.17/en.md"
+      },
+      "zh-CN": {
+        "title": "联机技术测试",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/25.4.17/cn.md"
+      }
+    }
+  ]
+}
