@@ -12,7 +12,7 @@ To ensure a smooth gaming experience, the current version only supports 2-player
 
 **New Agent:** Elisa
 
-**New Faith: **AGAPEISM
+**New Faith:** AGAPEISM
 
 We will continue optimizing the gaming experience during this period. If you encounter any issues, please submit them using the F3 key in the game. Every report you provide will help us improve the game.
 
