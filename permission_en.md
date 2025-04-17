@@ -1,9 +1,5 @@
 # TESTING PERMISSIONS REQUIRED
 
-There will be a limit for access to the multiplayer playtest, but we'll be rolling out access to more people, just to ensure that we can stress test and load balance servers instead of overwhelming the new Abyss with a huge influx of players.
-
-The team will be allocating access to the multiplayer test slowly but regularly, so if you've applied but don't get access straight away, this is pretty normal. We'll be doing everything we can to get as many of you into the Abyss 2.0 as we can over the course of the playtest, so folks should keep an eye on your e-mail and Discord for more information.
-
-We hope for your understanding! Thank you again for your support!
+Sorry, this test is not yet fully open. We plan to first invite a portion of players and then gradually open it to more people to ensure we can conduct stress tests and balance server load. If you’ve applied for the test but haven’t gained access yet, please don’t be discouraged—this is only temporary. We will do our best to ensure everyone can join the test in the coming days. If you’d like to participate as soon as possible, please join our Discord  https://discord.gg/veewo 
 
 **Veewo Games**
