@@ -12,9 +12,9 @@ Please note that the current quick match and online list features are not yet wo
 
 To ensure a smooth gaming experience, the current version only supports 2-player co-op. We will decide when to enable 3 or 4-player mode based on test feedback. The game uses a P2P (peer-to-peer) connection method, meaning players connect directly to each other, with the host acting as the server.
 
-**New Agent:**  Elisa
+**New Agent:** Elisa
 
-**New Faith:  **AGAPEISM
+**New Faith:** AGAPEISM
 
 We will continue optimizing the gaming experience during this period. If you encounter any issues, please submit them using the F3 key in the game. Every report you provide will help us improve the game.
 
