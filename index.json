@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "date_changed": "2025-06-07 21:55",
+  "announcements": [
+    {
+      "date": "2025-06-07 21:55",
+      "default": {
+        "title": "DEMO OUT NOW",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/Demo_0.1/en.md"
+      },
+      "zh-CN": {
+        "title": "试玩版开启",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/Demo_0.1/cn.md"
+      }
+    }
+  ]
+}
