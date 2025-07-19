@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "date_changed": "2025-07-19 15:36",
+  "announcements": [
+    {
+      "date": "2025-07-19 15:36",
+      "default": {
+        "title": "Patch Notes 7.19",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.19_1/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 7.19",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.19_1/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-18 20:28",
+      "default": {
+        "title": "Beta Branch is open",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.18.2/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 7.18_2",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.18.2/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-18 10:43",
+      "default": {
+        "title": "Patch Note 7.18",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.18/en.md"
+      },
+      "zh-CN": {
+        "title": "更新补丁 7.18",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.18/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-17 14:17",
+      "default": {
+        "title": "Abyss 2.0 is open!",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA/en.md"
+      },
+      "zh-CN": {
+        "title": "深渊2.0现已开启",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA/cn.md"
+      }
+    }
+  ]
+}
