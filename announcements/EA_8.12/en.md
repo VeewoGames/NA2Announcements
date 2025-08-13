@@ -8,11 +8,11 @@ Note: Updating may cause data errors with saved games. Please complete any ongoi
 
 ## Update Summary
 
-* New Patch System: Players will receive a Black Dog Patch (item bundle) after each failure to help Agents reach peak performance.
-* Comprehensive Weapon Adjustments and Optimization: Optimized mechanics and feel of numerous weapons, reworked some weapons, and adjusted all weapon values according to the new damage mechanics. (Continuous optimization in progress)
-* Weapon Visual Effects Optimization: Enhanced enemy bullet visibility and reduced player attack effects. (Continuous optimization in progress)
-* Added Items: New batch of attack speed, range, and projectile type items.
-* High-Definition Weapon Artwork Update
+* **Blackdog Patch System:** Players will receive a Black Dog Patch (item bundle) after each defeat to help Agents dominate the Abyss.
+* **Comprehensive Weapon Adjustments and Optimization:** Optimized mechanics and feel of numerous weapons, reworked some weapons, and adjusted all weapon values according to the new damage mechanics. (Continuous optimization in progress)
+* **Weapon Visual Effects Optimization:** Enhanced enemy bullet visibility and reduced player attack effects. (Continuous optimization in progress)
+* **New Items: **New batch of attack speed, range, and projectile items.
+* **High-Definition Weapon Artwork Update**
 This update is currently in testing. We welcome everyone to experience it and provide feedback. We will continue to optimize and adjust based on the situation.
 
 ## Key Points of Weapon Optimization and Adjustments
