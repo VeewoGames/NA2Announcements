@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "date_changed": "2025-08-14 17:31",
+  "date_changed": "2025-08-14 17:39",
   "announcements": [
     {
       "date": "2025-08-14 17:21",
@@ -242,6 +242,17 @@
       "zh-CN": {
         "title": "深渊2.0现已开启",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA/cn.md"
+      }
+    },
+    {
+      "date": "2025-08-14 17:39",
+      "default": {
+        "title": "Patch Notes 8.14",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.14/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 8.14",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.14/cn.md"
       }
     }
   ]
