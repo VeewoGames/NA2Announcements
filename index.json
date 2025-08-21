@@ -1,0 +1,292 @@
+{
+  "version": 1,
+  "date_changed": "2025-08-21 19:53",
+  "announcements": [
+    {
+      "date": "2025-08-21 10:35",
+      "default": {
+        "title": "Patch Notes 8.21",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.21/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 8.21",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.21/cn.md"
+      }
+    },
+    {
+      "date": "2025-08-20 10:35",
+      "default": {
+        "title": "Patch Notes 8.20",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.20/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 8.20",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.20/cn.md"
+      }
+    },
+    {
+      "date": "2025-08-19 16:46",
+      "default": {
+        "title": "Patch Notes 8.19",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.19/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 8.19",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.19/cn.md"
+      }
+    },
+    {
+      "date": "2025-08-18 16:30",
+      "default": {
+        "title": "Fire Support Update",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.18/en.md"
+      },
+      "zh-CN": {
+        "title": "【火力增援】更新",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.18/cn.md"
+      }
+    },
+    {
+      "date": "2025-08-15 20:44",
+      "default": {
+        "title": "Patch Notes 8.15",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.15/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 8.15",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.15/cn.md"
+      }
+    },
+    {
+      "date": "2025-08-13 10:35",
+      "default": {
+        "title": "Patch Notes 8.13",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.13/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 8.13",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.13/cn.md"
+      }
+    },
+    {
+      "date": "2025-08-13 10:35",
+      "default": {
+        "title": "Patch Notes 8.12",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.12/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 8.12",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.12/cn.md"
+      }
+    },
+    {
+      "date": "2025-08-11 10:35",
+      "default": {
+        "title": "Patch Notes 8.11",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.11/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 8.11",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.11/cn.md"
+      }
+    },
+    {
+      "date": "2025-08-08 10:35",
+      "default": {
+        "title": "Patch Notes 8.8",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.8/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 8.8",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.8/cn.md"
+      }
+    },
+    {
+      "date": "2025-08-06 10:35",
+      "default": {
+        "title": "Patch Notes 8.6",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.6/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 8.6",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.6/cn.md"
+      }
+    },
+    {
+      "date": "2025-08-05 10:35",
+      "default": {
+        "title": "Patch Notes 8.5",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.5/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 8.5",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.5/cn.md"
+      }
+    },
+    {
+      "date": "2025-08-04 20:17",
+      "default": {
+        "title": "Patch Notes 8.4",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.4/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 8.4",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.4/cn.md"
+      }
+    },
+    {
+      "date": "2025-08-01 10:35",
+      "default": {
+        "title": "Patch Notes 8.1",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.1/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 8.1",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.1/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-31 10:35",
+      "default": {
+        "title": "Patch Notes 7.30",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.30/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 7.30",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.30/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-29 16:53",
+      "default": {
+        "title": "Patch Notes 7.29",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.29/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 7.29",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.29/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-28 17:30",
+      "default": {
+        "title": "Patch Notes 7.28",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.28/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 7.28",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.28/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-23 23:04",
+      "default": {
+        "title": "Patch Notes 7.25",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.25/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 7.25",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.25/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-23 23:04",
+      "default": {
+        "title": "Patch Notes 7.24",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.24/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 7.24",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.24/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-23 19:46",
+      "default": {
+        "title": "Patch Notes 7.23",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.23/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 7.23",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.23/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-22 21:11",
+      "default": {
+        "title": "Patch Notes 7.22",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.22/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 7.22",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.22/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-21 22:41",
+      "default": {
+        "title": "Patch Notes 7.21",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.21/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 7.21",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.21/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-20 21:21",
+      "default": {
+        "title": "Patch Notes 7.20",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.20/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 7.20",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.20/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-19 18:07",
+      "default": {
+        "title": "Patch Notes 7.19",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.19_1/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 7.19",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.19_1/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-18 20:28",
+      "default": {
+        "title": "Beta Branch is open",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.18.2/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 7.18_2",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.18.2/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-18 10:43",
+      "default": {
+        "title": "Patch Note 7.18",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.18/en.md"
+      },
+      "zh-CN": {
+        "title": "更新补丁 7.18",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_7.18/cn.md"
+      }
+    },
+    {
+      "date": "2025-07-17 14:17",
+      "default": {
+        "title": "Abyss 2.0 is open!",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA/en.md"
+      },
+      "zh-CN": {
+        "title": "深渊2.0现已开启",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA/cn.md"
+      }
+    }
+  ]
+}
