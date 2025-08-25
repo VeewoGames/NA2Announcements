@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "date_changed": "2025-08-22 20:35",
+  "date_changed": "2025-08-25 19:04",
   "announcements": [
     {
       "date": "2025-08-21 10:35",
@@ -297,6 +297,17 @@
       "zh-CN": {
         "title": "更新日志 8.22",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.22/cn.md"
+      }
+    },
+    {
+      "date": "2025-08-25 10:35",
+      "default": {
+        "title": "Patch Notes 8.25",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.25/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 8.25",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.25/cn.md"
       }
     }
   ]
