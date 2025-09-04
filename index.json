@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "date_changed": "2025-09-03 17:45",
+  "date_changed": "2025-09-04 17:34",
   "announcements": [
     {
       "date": "2025-09-02 10:35",
@@ -366,7 +366,7 @@
       }
     },
     {
-      "date": "2025-09-03 10:35",
+      "date": "2025-09-04 12:09",
       "default": {
         "title": "Patch Notes 9.3",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.3/en.md"
@@ -374,6 +374,17 @@
       "zh-CN": {
         "title": "更新日志 9.3",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.3/cn.md"
+      }
+    },
+    {
+      "date": "2025-09-04 10:35",
+      "default": {
+        "title": "Patch Notes 9.4",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.4/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 9.4",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.4/cn.md"
       }
     }
   ]
