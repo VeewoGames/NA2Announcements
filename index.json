@@ -377,17 +377,6 @@
       }
     },
     {
-      "date": "2025-09-04 10:35",
-      "default": {
-        "title": "Patch Notes 9.4",
-        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.4/en.md"
-      },
-      "zh-CN": {
-        "title": "更新日志 9.4",
-        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.4/cn.md"
-      }
-    },
-    {
       "date": "2025-09-05 10:35",
       "default": {
         "title": "Patch Notes 9.5",
