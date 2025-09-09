@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "date_changed": "2025-09-05 16:15",
+  "date_changed": "2025-09-09 19:48",
   "announcements": [
     {
       "date": "2025-09-02 10:35",
@@ -385,6 +385,17 @@
       "zh-CN": {
         "title": "更新日志 9.5",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.5/cn.md"
+      }
+    },
+    {
+      "date": "2025-09-09 10:35",
+      "default": {
+        "title": "Patch Notes 9.9",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.9/en.md"
+      },
+      "zh-CN": {
+        "title": "更新日志 9.9",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.9/cn.md"
       }
     }
   ]
