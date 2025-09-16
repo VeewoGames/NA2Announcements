@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "date_changed": "2025-09-11 16:33",
+  "date_changed": "2025-09-16 10:16",
   "announcements": [
     {
       "date": "2025-09-11 10:35",
@@ -410,7 +410,7 @@
       }
     },
     {
-      "date": "2025-09-15 10:35",
+      "date": "2025-09-16 10:16",
       "default": {
         "title": "Patch Notes 9.15",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.15/en.md"
