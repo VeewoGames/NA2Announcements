@@ -1,10 +1,10 @@
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_170949_3342314247368386611.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_230902_1500038354916302978.png)
 
 # Roadpmap Update #1 Rule Changer
 
 Today, we are excited to reveal the very first stop on the Neon Abyss 2 Roadmap. This update introduces a new agrent, brand-new features, game-changing systems, and a whole lotta bug fixes!
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_170952_8979863172177898152.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_230911_3617705905575989676.png)
 
 # Update Summary
 
@@ -18,19 +18,19 @@ Today, we are excited to reveal the very first stop on the Neon Abyss 2 Roadmap.
 
 One of the most requested features from the Neon Abyss Community is here! Make way for “The Ban System” this new feature lets players customize their runs by disabling the game elements they don’t vibe with. Don’t like a certain Faith, Weapon, Item, Relic, or even a Room? Ban it and make your runs truly your own.
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_170955_3641990815723226992.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_230915_8427108587223620076.png)
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_170959_8737412924160812185.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_230918_786830166530840930.png)
 
 # **New Agent: R-7**
 
 Meet R-7, the mass-produced combat robot built by Titan Group, but an unexpected malfunction gave it self-awareness. OGs of the Neon Abyss may find this sparky individual awfully familiar…is this a “*grim*” return?
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_171002_8548662518247555110.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_230921_2808073643913639611.png)
 
 # Co-op Resource Optimization
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_171005_7159356758487244258.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_230924_1062317101903137850.png)
 
 To address resource distribution issues in co-op play, we’ve added three new allocation strategies, allowing every player to find a team style that best fits their play.
 
@@ -41,13 +41,13 @@ Players can choose one of the following team strategies in the co-op menu:
 * **United Front:** Strength shared entirely through team resources for a more fully unified experience.
 # New Normal Boss: God of Nuclear
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_171009_5137075846235782954.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_230927_6573782766078417296.png)
 
 # Added Numerous Enhancement Items
 
 We've heard your voices! Now defeating bosses will only drop items that directly boost agent attributes, such as increasing damage, attack speed, range, projectile count, heart containers, etc. The progression experience in the game will receive clearer and more intuitive feedback.
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_171013_7424412926798514007.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_230931_4279565898195836838.png)
 
 # New Hairstyles
 
