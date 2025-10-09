@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_171019_5812714769111576737.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_230938_1033395174174154503.png)
 
 # 路线图更新 #1 掌控规则
 
@@ -8,7 +8,7 @@
 
 注意：更新版本可能会造成继续游戏的数据错误，请完成继续游戏的内容再进行更新。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_171022_4799565240216439705.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_230942_813613684297465620.png)
 
 # 更新内容摘要
 
@@ -24,15 +24,15 @@
 
 请注意，玩家需要击败黑客之神来解锁禁用系统。另外黑犬酒吧中的科技部门办公室也随着禁用系统一起正式开放。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_171026_7380820474962725943.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_230946_8362249362919463651.png)
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_171029_7001304950170236297.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_230950_7610705665508631360.png)
 
 # 新特工：R-7
 
 泰坦集团制造的量产型战斗机器，因一次特殊任务中的异常故障，意外诞生了自我意识。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_171032_8847955694293027054.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_230953_7163702306008844553.png)
 
 # 联机资源优化
 
@@ -46,17 +46,17 @@
 
 **统一战线：**武器伤害加成完全来自于团队资源，不分你我。适合团队统一流派的玩法。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_171035_2623623510606509032.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_230957_3400692839198690808.png)
 
 # 新普通BOSS：核能之神
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_171039_806587790127452948.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_231000_8108789602786882057.png)
 
 # 新增大量强化道具
 
 我们听到了大家的声音！现在击败BOSS只会掉落直接提升特工属性的道具，比如增加伤害，增加攻速，增加射程，增加投射物数量，增加红心容器等等。游戏中的成长体验将会得到更加清晰直观的反馈。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20250930_171043_1081917906767182602.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20251009_231003_6390151534907710697.png)
 
 # 新增发型外观
 
