@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "date_changed": "2026-01-29 16:03",
+  "date_changed": "2026-01-29 16:07",
   "announcements": [
     {
       "date": "2025-10-30 09:52",
       "default": {
-        "title": "#★ 流光窃影",
+        "title": "#★ Archenemy Returns",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_10.30/en.md"
       },
       "zh-CN": {
@@ -14,13 +14,13 @@
       }
     },
     {
-      "date": "2026-01-29 15:55",
+      "date": "2026-01-29 15:56",
       "default": {
         "title": "#★ Glimmer Heist",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/en.md"
       },
       "zh-CN": {
-        "title": "#★ ",
+        "title": "#★ 流光窃影",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/cn.md"
       }
     },
