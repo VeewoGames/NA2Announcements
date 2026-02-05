@@ -1,54 +1,56 @@
-亲爱的黑犬特工们：
+**Dear Agents of Neon Abyss,**
 
-### 骏马踏春来，霓虹深渊团队全体成员给您拜早年啦！
+As the Year of the Horse gallops in, the entire Neon Abyss team wishes you a very Happy Chinese New Year!
 
-祝您在新的一年里：操作如马跃般流畅，运气如虹光般闪耀，生活如关卡般精彩不断！
+In the coming year, may your **mechanics be as fluid as a stallion’s stride**, your **luck shine as bright as a legendary drop**, and your **life be as thrilling as a perfect dungeon run!**
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.2.5/20260205_154012_6255542204957725853.png)
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.2.5/20260205_154057_8707868152100463369.png)
 
-# 默认分支更新内容
+# Default Branch Update
 
-### 春节主题
+### Spring Festival Theme
 
-* 酒吧主题已经换上了春节主题
-* 节日礼物：马年装扮
-### BUG修复与优化
+* The bar has been decorated with a Spring Festival theme.
+* Holiday Gift: Year of the Horse Hat
+### Bug Fixes & Optimizations
 
-* 修复了若干道具导致的错误
-* 联机体验优化
-### 额外惊喜
+* Fixed several item-related bugs.
+* Improved multiplayer experience.
+### Extra Surprise
 
-Beta分支已开启武器词缀系统测试！想要提前体验的特工们请看下方详细信息：
+The Beta branch is now testing the Weapon Affix System! Agents who want early access, check the details below
 
-# Beta分支更新内容
+# Beta Branch Update
 
-## 武器词缀系统
+## Weapon Affix System
 
-### 词缀
+### Affixes
 
-武器现在拥有全新的词缀系统。每把武器都有固定词缀和随机出现的动态词缀，动态词缀涵盖直接伤害加成、资源加成和特殊机制等多种类型。武器等级越高，动态词缀出现的概率和强度也越高。
+Weapons now feature a brand-new affix system. Each weapon has fixed affixes and randomly generated dynamic affixes. Dynamic affixes include direct damage bonuses, resource bonuses, and unique mechanics. Higher weapon levels increase the chance and potency of dynamic affixes.
 
-### 稀有度
+### Rarity
 
-武器和词缀加入了稀有度分级，分别是普通，稀有，史诗和传说。稀有度越高的词缀效果越强力，让你的武器在每次游戏中都有独特的成长路径和追求目标。
+Weapons and affixes now have rarity tiers: Common, Rare, Epic, and Legendary. Higher rarity affixes offer more powerful effects, giving your weapon a unique growth path and goals to pursue in each run.
 
-### 灵活升级
+### Flexible Upgrading
 
-武器升级空间现在提供更多选择！除了原有的宝物选择，你还可以选择淬炼来添加一个新的词缀到武器，让武器成长路线更加灵活多变。
+Weapon upgrade choices have been expanded! In addition to the existing treasure options, you can now choose to **Temper** your weapon, adding a new affix for more flexible and varied growth paths.
 
-## 补丁系统优化
+![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.2.5/20260205_154104_220607470776142606.png)
 
-经过很多玩家的反馈，我们发现大家对于失败后才能使用感到很沮丧。因此我们把补丁系统改为充能机制，击败任意Boss都可以为其充能1格能量，3格就充满可以启用补丁。但是需要注意的是激活补丁的这一局是无法充能的。另外我们在选项中也增加了无限能量选项，对于有特殊需求的玩家可以打开（但是会大幅的降低游戏的难度和乐趣，请谨慎对待）。
+## Patch System Optimization
 
-注意：现在武器的固定描述还没有更新，实际上已经无效。每个武器的成长方式完全取决于词缀。当前版本词缀强度可能过强，我们还需要更多的时间来调整，大家可以趁机来爽一爽哈哈。
+Based on player feedback, we noticed that many felt frustrated by having to fail before being able to use patches. To address this, we've changed the system to a charge-based mechanic. Now, defeating any Boss will charge the patch by 1 energy. Once it reaches 3 charges, the patch can be activated. However, please note that you cannot gain charges in the same run where a patch is active. Additionally, we've added an "Infinite Energy" option in the settings for players with specific needs. Please use it with caution, as it will significantly reduce the game's difficulty and overall enjoyment.
 
-**如果大家在Beta分支遇到问题，包括游戏体验和bug，欢迎加群（1044503551）反馈，我们迫切需要你的感受和想法来改进游戏~**
+**Note:** The fixed descriptions on weapons are currently outdated and no longer accurate. A weapon's growth path is now entirely determined by its affixes. The current affix power might be a bit too strong. We need more time to fine-tune the balance. In the meantime, feel free to enjoy the overpowered fun!
 
-### Beta分支切换方法
+**If you encounter any issues in the Beta branch, whether related to gameplay or bugs, please feel free to join our Discord and provide feedback. Your experiences and thoughts are crucial for us to improve the game!**
 
-Steam库 >>> 霓虹深渊2 >>> 右键 >>> 属性 >>> 测试版 >>> Beta（无需输入密码）
+### How to Switch to the Beta Branch
 
-另外请注意，不同的分支之间因为版本不同是无法继续游戏的，也无法跨版本进行联机。
+In your Steam Library >>> Neon Abyss 2 >>> Right-click >>> Properties >>> Betas >>> Beta (no password required)
+
+Please note that players on different branches cannot play together due to version differences.
 
 **Veewo Games**
 
