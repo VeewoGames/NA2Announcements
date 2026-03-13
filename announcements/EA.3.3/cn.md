@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.3.3/20260305_163933_1055234018232470257.png)
+![image](20260305_163933_1055234018232470257.png)
 
 # 更新内容摘要
 
@@ -13,11 +13,11 @@
 
 阿芙洛将情爱幻想编织成永不褪色的渴望。屏幕光芒映照着她曼妙的身姿，而每一次心动，皆是她的贡品。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.3.3/20260305_163937_8397146584687409689.png)
+![image](20260305_163937_8397146584687409689.png)
 
 # 武器词缀系统
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.3.3/20260305_163941_11544089875286144.png)
+![image](20260305_163941_11544089875286144.png)
 
 ## 词缀
 
@@ -49,11 +49,11 @@
 
 所有的特工立绘都经过了再次优化，保持统一的美术风格。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.3.3/20260305_163955_2657430189044527249.png)
+![image](20260305_163955_2657430189044527249.png)
 
 # 路线图更新
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.3.3/20260305_164005_1785252325208438580.png)
+![image](20260305_164005_1785252325208438580.png)
 
 开发计划调整：因为诅咒系统没有达到我们的预期，需要更多的优化时间，因此我们调整了5月的更新内容，更改为一个全新的游戏模式。另外还有更多的游戏模式在规划中，敬请期待~
 

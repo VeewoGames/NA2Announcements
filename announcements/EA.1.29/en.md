@@ -16,7 +16,7 @@ We’ve got a few new elements hitting the Abyss today so read on below to find 
 
 First up in the glimmering new Abyss is our new Agent - Cassie. Cassie is a rogue-ish little rebel with an eye for all things gold - and a penchant for robbing from the rich to give to the poor (as long as we class Cassie as “the poor”, right?).
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164254_1979767140526340905.png)
+![image](20260305_164254_1979767140526340905.png)
 
 Cassie’s standard weapon is the ranged Glint gun - which fires a lucky bullet every four shots. The number of lucky bullets scales with the keys you have, and Cassie has a way to  help you out there, as well.
 
@@ -30,11 +30,11 @@ Titan Boss (Free DLC)
 
 We’re also bringing back a Titan of the first Abyss, with Prometheus making his way towards Neon Abyss 2 at an alarming rate (like, “he’s in there now and he’s gonna kick your butt” type alarming).
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164300_4475982449692770246.png)
+![image](20260305_164300_4475982449692770246.png)
 
 While we’re pretty sure Prometheus is going to give you enough of a challenge, we’re also throwing a new regular God into the mix - Lisa the God of Galleries! She’ll give you some gallery-security to keep you on your toes (and it’s tighter than the Louvre), so just, stay out of the red, right?
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164306_2108407949498106528.png)
+![image](20260305_164306_2108407949498106528.png)
 
 # New Stat Systems
 
@@ -42,11 +42,11 @@ While we’re pretty sure Prometheus is going to give you enough of a challenge,
 
 We’ve now split stats into six exciting new categories, separating out Damage Bonus, Attack Speed, Projectile Range, Projectile Size, Critical Chance and Luck! Now I know what you’re asking, what’s the point of seeing these, what you want to do is change them, right?
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164311_1596031412712383457.png)
+![image](20260305_164311_1596031412712383457.png)
 
 Well, good news! Our new Artefact Extraction system lets you do just that, with direct impact on one or some of these stats! Extracting destroys artefacts, and instead adds bonuses to each of the six primary stats, and you can check on each of these in the pause menu!
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164316_2295672743066929923.png)
+![image](20260305_164316_2295672743066929923.png)
 
 ### Smiley Counter Rework
 
@@ -56,23 +56,23 @@ The basic Smiley Counter now only offers Stat Gems as rewards, with a chance to 
 
 Once you get stuck in your ways, it can be really hard to find a new favourite weapon in the Abyss (how do you beat a ball-bouncing tennis racket?). To help you our a little, we’ve added a whole new area of the Bar, accessible through the door downstairs, to let you test drive new weapons.
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164325_4404639785037739630.png)
+![image](20260305_164325_4404639785037739630.png)
 
 In the Training Room Agents can select any unlocked weapon and take it into our holo-room (I’ve been told that I am legally not allowed to call it a HoloDeck… thanks Gene Roddenberry). Here you can check out the damage the new weapon can do against static, moving or multiple targets, all in a safe and controlled area where even you can’t muck it up.
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164330_3462554187706471764.png)
+![image](20260305_164330_3462554187706471764.png)
 
 # Bar Stories
 
 Some of the NPCs in the Bar have come to life, each offering a unique story for you to unravel.
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164335_6846910816107101868.png)
+![image](20260305_164335_6846910816107101868.png)
 
 # New Items
 
 This update brings numerous new and reworked items! The original Wonder Oddities have returned, with more fascinating items coming soon~
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164343_2470966179396417884.png)
+![image](20260305_164343_2470966179396417884.png)
 
 ### Curios
 
@@ -150,13 +150,13 @@ Small Wonder Cube: A cube with magical effects. Lift and throw!
 
 ### New Bosses List Page
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164349_1901293971498713647.png)
+![image](20260305_164349_1901293971498713647.png)
 
 ### **Set Display Optimization**
 
 Set bouns are now visible in the stats page.
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164400_8422483298636165172.png)
+![image](20260305_164400_8422483298636165172.png)
 
 ### HUD Visual Update
 
@@ -164,19 +164,19 @@ To align with the overall modern and sci-fi aesthetic of Neon Abyss 2, we have r
 
 **If you prefer the old style, you can switch back to the classic heart and shield icons in the Gameplay Options.**
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164407_7982990506749180757.png)
+![image](20260305_164407_7982990506749180757.png)
 
 # Visual Improvements
 
 Enhanced visuals for some game rooms and special rooms
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164413_3055781178983815098.png)
+![image](20260305_164413_3055781178983815098.png)
 
 **That’s all, Nerds!**
 
 Thanks again for the huge amount of support from Agents around the globe. We really couldn’t do it without you (well, we could. But it wouldn’t be as good). As such, we’re making some changes to the Early Access roadmap - allowing us to tackle more of the things which are important to you.
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164420_3960527780785442122.png)
+![image](20260305_164420_3960527780785442122.png)
 
 Our new roadmap has taken our Artistic Vision (I just like to get that into news when I can) and balances this against the improvements which our Agents have been chatting about on social media, Steam community and our very own Veewo Discord.
 

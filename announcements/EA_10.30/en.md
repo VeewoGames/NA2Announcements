@@ -16,7 +16,7 @@ All 34 bosses from the original Neon Abyss will gradually return to the abyss! W
 
 Progress: Managers (3/11), Regular Bosses (24/24)
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_10.30/20260305_164603_9017112785786271317.png)
+![image](20260305_164603_9017112785786271317.png)
 
 # Happy Halloween! Claim Your Exclusive Cosmetic!
 
@@ -32,13 +32,13 @@ To thank all Agents who purchased the Supporter Pack, we’ve prepared new gifts
 
 Thank you again for your support—more gifts are coming in the future. Stay tuned!
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_10.30/20260305_164608_7251468393332032207.png)
+![image](20260305_164608_7251468393332032207.png)
 
 # New Weapons
 
 14 new weapons added, including 4 classics from the original game:
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_10.30/20260305_164614_840087410985680408.png)
+![image](20260305_164614_840087410985680408.png)
 
 * **JIMMY:** Fires fishbones that split into bone spikes.
 * **FAMINE:** Fires homing piercing bullets.

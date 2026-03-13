@@ -26,15 +26,15 @@ All weapons now feature high-definition pixel art.
 
 ## **Blackdog Patch System**
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.18/20260305_164711_4674750634960166999.png)
+![image](20260305_164711_4674750634960166999.png)
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.18/20260305_164716_7893330721070488771.png)
+![image](20260305_164716_7893330721070488771.png)
 
 Each failure grants an item bundle to aid Agents in conquering the Abyss and experiencing the fun of different item combinations. (Requires unlocking on the first page of the Evolution Tree.)
 
 ## **Weapon Optimizations + HD Art**
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.18/20260305_164722_4538451575036687471.png)
+![image](20260305_164722_4538451575036687471.png)
 
 Improved mechanics and handling for numerous weapons, reworked some weapons, and adjusted all weapon stats based on the new damage system. (Ongoing optimizations.)
 

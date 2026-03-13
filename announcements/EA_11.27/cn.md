@@ -12,7 +12,7 @@
 
 嗜险如命的小疯子，迷恋混乱与刺激，在狂笑中与命运共舞。痛苦，是她最甜的奖赏。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_11.27/20260305_164809_5755759888581248312.png)
+![image](20260305_164809_5755759888581248312.png)
 
 # 新高层BOSS
 
@@ -24,7 +24,7 @@
 
 触发条件：在安全屋选择进入其相应的绿色传送门即可挑战
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_11.27/20260305_164814_2225399964392080454.png)
+![image](20260305_164814_2225399964392080454.png)
 
 ### 雅典娜 - 智慧之神
 
@@ -36,13 +36,13 @@
 
 触发条件：击败宙斯后的下一层即可挑战
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_11.27/20260305_164819_1151247056286800187.png)
+![image](20260305_164819_1151247056286800187.png)
 
 # 新普通BOSS
 
 ### 脱口秀之神
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_11.27/20260305_164824_4347522187312427173.png)
+![image](20260305_164824_4347522187312427173.png)
 
 # 新增机制
 
@@ -57,7 +57,7 @@
 * 掉落物生成后，最初仅限其归属玩家拾取
 * 普通掉落物（金币，炸弹，钥匙等）在经过一段时间后，会自动转为可拾取状态
 * 宝物等特殊掉落物将始终保持专属状态，需由玩家主动分享后，其他队友才能拾取
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_11.27/20260305_164828_4296526614131293652.png)
+![image](20260305_164828_4296526614131293652.png)
 
 ## 画面混乱问题优化
 
@@ -65,7 +65,7 @@
 
 现在，玩家可以在选项中自由调整它们的透明度，让你根据喜好在“炫酷特效”与“清爽画面”之间自由切换。你可以在 **“选项 > 画面”** 中找到相关设置。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_11.27/20260305_164832_3289755664434506451.png)
+![image](20260305_164832_3289755664434506451.png)
 
 # 新增内容
 
@@ -81,5 +81,5 @@
 
 # 路线图更新
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_11.27/20260305_164836_8211222167661228945.png)
+![image](20260305_164836_8211222167661228945.png)
 
