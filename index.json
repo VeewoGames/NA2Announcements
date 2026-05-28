@@ -1,17 +1,18 @@
 {
   "version": 1,
-  "date_changed": "2026-03-05 16:37",
+  "date_changed": "2026-05-28 16:40",
   "announcements": [
     {
       "date": "2026-03-03 00:00",
       "default": {
-        "title": "#★ Weapon",
-        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.3.3/en.md"
+        "title": "#★ Weapon Reforge",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/codex-datasource-md-test/announcements/EA.3.3/en.md"
       },
       "zh-CN": {
         "title": "#★ 武器重铸",
-        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.3.3/cn.md"
-      }
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/codex-datasource-md-test/announcements/EA.3.3/cn.md"
+      },
+      "group_id": "EA.3.3"
     },
     {
       "date": "2025-09-18 14:06",
