@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "date_changed": "2026-05-28 16:40",
+  "date_changed": "2026-05-28 16:50",
   "announcements": [
     {
       "date": "2026-03-03 00:00",
@@ -130,6 +130,18 @@
       "zh-CN": {
         "title": "深渊2.0现已开启",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA/cn.md"
+      }
+    },
+    {
+      "group_id": "EA 26.6.14",
+      "date": "2026-06-14 00:00",
+      "default": {
+        "title": "#★ Wonder Flow",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/codex-datasource-md-test/announcements/EA_26.6.14/en.md"
+      },
+      "zh-CN": {
+        "title": "#★ 惊奇不断",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/codex-datasource-md-test/announcements/EA_26.6.14/cn.md"
       }
     }
   ]
