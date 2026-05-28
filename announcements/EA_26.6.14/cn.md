@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/codex-datasource-md-test/announcements/EA_26.6.14/image_46a1a1155d3b9f33.jpg)
+![](image_46a1a1155d3b9f33.jpg)
 # 更新内容摘要
 - 全新酒吧
 - 新特工：奇诺
@@ -6,22 +6,22 @@
 - 新普通BOSS：涂鸦之神
 # 全新黑犬酒吧
 为了躲避泰坦集团的调查，黑犬酒吧现在转移到了偏僻的郊区，而真正的酒吧藏在了沙漠之下！
-![](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/codex-datasource-md-test/announcements/EA_26.6.14/image_74c11d7d8c4085d2.jpg)
-![](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/codex-datasource-md-test/announcements/EA_26.6.14/image_b2c82b98f0e0a102.jpg)
+![](image_74c11d7d8c4085d2.jpg)
+![](image_b2c82b98f0e0a102.jpg)
 # 新特工
 ## 奇诺
 流浪街头的说唱歌手，口袋里永远装满惊奇。用节奏和歌声在城市的混乱中闯出自己的路。“押上心跳的Beats，惊奇绝不会Miss！”
-![](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/codex-datasource-md-test/announcements/EA_26.6.14/image_b15334d7f2982834.jpg)
+![](image_b15334d7f2982834.jpg)
 # 新高层BOSS
 ## 黑暗 阿芙洛 - 诱惑之神
 阿芙洛将情爱幻想编织成永不褪色的渴望。屏幕光芒映照着她曼妙的身姿，而每一次心动，皆成她的贡品。
 解锁条件：击败普通版阿芙洛。
 挑战条件：击败赫尔墨斯进入下一层时，拥有不少于10个哈基宝。
-![](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/codex-datasource-md-test/announcements/EA_26.6.14/image_cb979db27da7ae1f.jpg)
+![](image_cb979db27da7ae1f.jpg)
 # 新普通BOSS
 ## 米歇尔 - 涂鸦之神
 规矩？那是我最先涂掉的东西
-![](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/codex-datasource-md-test/announcements/EA_26.6.14/image_0605115d37c5b048.jpg)
+![](image_0605115d37c5b048.jpg)
 ## 风暴突袭模式 Beta 测试
 <empty-block/>
 ---
