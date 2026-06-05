@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "date_changed": "2026-05-29 14:52",
+  "date_changed": "2026-06-05 11:44",
   "announcements": [
     {
       "date": "2026-03-03 00:00",
@@ -141,6 +141,18 @@
       "zh-CN": {
         "title": "版本更新延期公告",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_26.5.31/cn.md"
+      }
+    },
+    {
+      "group_id": "CoopTest",
+      "date": "2026-06-10 00:00",
+      "default": {
+        "title": "Beta Branch Online Co-op Test Event",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/CoopTest/en.md"
+      },
+      "zh-CN": {
+        "title": "Beta分支组队测试活动公告",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/CoopTest/cn.md"
       }
     }
   ]
