@@ -16,7 +16,7 @@
 
 完成进度：高层BOSS（3/11），普通BOSS（24/24）
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_10.30/20260305_164626_2704144346438243088.png)
+![image](20260305_164626_2704144346438243088.png)
 
 # 万圣节快乐！速来领取限定装扮！
 
@@ -24,7 +24,7 @@
 
 **自10月30日新版本更新后至11月14日 **登录游戏即可领取限定装扮【**午夜秘使**】
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_10.30/20260305_164631_2631227342013080644.png)
+![image](20260305_164631_2631227342013080644.png)
 
 # 支持者包新礼物！
 
@@ -38,7 +38,7 @@
 
 新增14个武器，其中包含了4个初代经典武器：
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_10.30/20260305_164636_8548242055486264449.png)
+![image](20260305_164636_8548242055486264449.png)
 
 * 吉米：发射可以分裂骨刺的鱼骨。
 * 饥荒：发射追踪穿透子弹。

@@ -1,6 +1,6 @@
 # We’ve got the decorations up, now it’s time for Christmas
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_12.17/20260305_164852_7032907829300713506.png)
+![image](20260305_164852_7032907829300713506.png)
 
 **Festive Greetings, Agents! In time for the holiday break, today we’ve deployed an update that touches a few areas of the Abyss - with optimisations, bug fixes and some festive cheer for the bar!**
 

@@ -4,7 +4,7 @@ As the Year of the Horse gallops in, the entire Neon Abyss team wishes you a ver
 
 In the coming year, may your **mechanics be as fluid as a stallion’s stride**, your **luck shine as bright as a legendary drop**, and your **life be as thrilling as a perfect dungeon run!**
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.2.5/20260305_164136_4162240135280651234.png)
+![image](20260305_164136_4162240135280651234.png)
 
 # Default Branch Update
 
@@ -36,7 +36,7 @@ Weapons and affixes now have rarity tiers: Common, Rare, Epic, and Legendary. Hi
 
 Weapon upgrade choices have been expanded! In addition to the existing treasure options, you can now choose to **Temper** your weapon, adding a new affix for more flexible and varied growth paths.
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.2.5/20260305_164141_7944989057252423957.png)
+![image](20260305_164141_7944989057252423957.png)
 
 ## Patch System Optimization
 

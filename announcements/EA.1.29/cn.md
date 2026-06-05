@@ -2,7 +2,7 @@
 
 # 路线图更新
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164436_5115589830830745820.png)
+![image](20260305_164436_5115589830830745820.png)
 
 调整说明：我们暂时移除了规划中的诅咒系统，替换为了武器词缀系统，进一步丰富游戏的可玩性和深度。同时把爱神移到了诅咒女神之前，而诅咒系统目前还在评估中。
 
@@ -23,7 +23,7 @@
 
 贫民窟里长大的寻宝猎人，古灵精怪却身手不凡。把冒险当作游戏，在嬉笑声中劫富济贫。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164442_1138288720583740582.png)
+![image](20260305_164442_1138288720583740582.png)
 
 # 新BOSS
 
@@ -33,13 +33,13 @@
 
 经典BOSS回归！泰坦集团首席战略官（CSO），沉迷于造物游戏的幕后黑手。他冷漠地审视着自己扶持的人类，时刻准备抹除一切不可控的变数。击败普通雅典娜即可挑战。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164448_6045641403074274485.png)
+![image](20260305_164448_6045641403074274485.png)
 
 ### 画展之神
 
 普通BOSS
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164453_2897098205746097764.png)
+![image](20260305_164453_2897098205746097764.png)
 
 # 新属性系统
 
@@ -51,13 +51,13 @@
 
 注意：目前大部分的道具对于新版本的属性UI显示支持还不完善，我们会后续的更新中解决此问题。属性系统也依然在继续调整和优化中，请大家在社区中积极给我们提供反馈，感谢~
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164459_4730435689858529529.png)
+![image](20260305_164459_4730435689858529529.png)
 
 ### 宝物分解+属性宝石
 
 所有的宝物都可以被分解为若干个属性宝石，拾取后可以增加对应的属性值。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164504_8097976754992394786.png)
+![image](20260305_164504_8097976754992394786.png)
 
 ### 微笑柜台重构
 
@@ -69,21 +69,21 @@
 
 在训练中心的右侧有武器测试房间，可以选择任意已解锁的武器进行练习和测试。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164511_5345633151100723161.png)
+![image](20260305_164511_5345633151100723161.png)
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164516_8204664438980043461.png)
+![image](20260305_164516_8204664438980043461.png)
 
 # 酒吧故事
 
 黑犬酒吧中部分NPC增加了对话内容，他们都有着自己的故事等待你的发掘。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164521_1451055920421922776.png)
+![image](20260305_164521_1451055920421922776.png)
 
 # 新道具
 
 本次更新带来大量道具的新增和重做！初代的异宝物品系列也已回归，后续还会加入更多有趣的异宝，敬请期待~
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164527_2618921935358950918.png)
+![image](20260305_164527_2618921935358950918.png)
 
 ### 奇物
 
@@ -161,13 +161,13 @@
 
 ### 新增首领页面
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164531_3334458241501623681.png)
+![image](20260305_164531_3334458241501623681.png)
 
 ### 套装显示优化
 
 现在属性界面可以直接查看套装效果了
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164543_9207485399291493342.png)
+![image](20260305_164543_9207485399291493342.png)
 
 ### HUD美术更新
 
@@ -175,13 +175,13 @@
 
 **如果你不习惯这个改动，可以在游戏选项中切换为经典的红心护盾样式**
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164548_3829656038365056235.png)
+![image](20260305_164548_3829656038365056235.png)
 
 # 美术优化
 
 部分游戏房间和特殊房间进行了美术优化
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.1.29/20260305_164554_252274503509027639.png)
+![image](20260305_164554_252274503509027639.png)
 
 **Veewo Games**
 

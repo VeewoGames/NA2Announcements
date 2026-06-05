@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.3.3/20260305_163730_6369184472475585097.png)
+![image](20260305_163730_6369184472475585097.png)
 
 # [Intro]
 
@@ -28,7 +28,7 @@ We’ve also added Tempering to weapon upgrading. While you’ll still have the 
 
 We really hope that the new Affix and upgrade system provides the depth to weapons and upgrading that you’ve been after - so jump in, give it a try and let us know how you re-forge your weapons in the Abyss!
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.3.3/20260305_163804_4296274350251891007.png)
+![image](20260305_163804_4296274350251891007.png)
 
 # **Aphrodite - Goddess of Seduction**
 
@@ -55,13 +55,13 @@ While it’s not MASSIVE stuff, we’ve also got some other changes for you in t
 * We’ve optimised multiplayer connectivity with some behind the scenes tweaks and reduction of data sync requirements
 * In addition, if the host leaves and you fail to reconnect, the Abyss will automatically bump you back to the beginning of your current floor so you can continue playing on your own
 * We’ve optimised Agent portraits as well, making sure we maintain our unified art style.
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.3.3/20260305_163916_5661688080942229626.png)
+![image](20260305_163916_5661688080942229626.png)
 
 # **The New Roadmap**
 
 As we mentioned earlier, you nerds have given such incredible feedback that we’re re-mapping the roadmap. In addition to making sure that we’re considering your feedback, the Curse System is still in development, and we’re not happy with the quality and consistency just yet, so we’re having on to that a little.
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA.3.3/20260305_163924_2263930040498684788.png)
+![image](20260305_163924_2263930040498684788.png)
 
 Coming up in May we’re introducing a brand-new game mode, and we also have a few other game modes in the works to give you (and your friends) more ways you can play in the Abyss.
 

@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20260305_164013_8286660066033998002.png)
+![image](20260305_164013_8286660066033998002.png)
 
 # 路线图更新 #1 掌控规则
 
@@ -8,7 +8,7 @@
 
 注意：更新版本可能会造成继续游戏的数据错误，请完成继续游戏的内容再进行更新。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20260305_164018_1583283256557899388.png)
+![image](20260305_164018_1583283256557899388.png)
 
 # 更新内容摘要
 
@@ -24,15 +24,15 @@
 
 请注意，玩家需要击败黑客之神来解锁禁用系统。另外黑犬酒吧中的科技部门办公室也随着禁用系统一起正式开放。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20260305_164022_4295238207179559506.png)
+![image](20260305_164022_4295238207179559506.png)
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20260305_164027_3299946562743391966.png)
+![image](20260305_164027_3299946562743391966.png)
 
 # 新特工：R-7
 
 泰坦集团制造的量产型战斗机器，因一次特殊任务中的异常故障，意外诞生了自我意识。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20260305_164031_3684218097285964160.png)
+![image](20260305_164031_3684218097285964160.png)
 
 # 联机资源优化
 
@@ -46,17 +46,17 @@
 
 **统一战线：**武器伤害加成完全来自于团队资源，不分你我。适合团队统一流派的玩法。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20260305_164035_80802917384562772.png)
+![image](20260305_164035_80802917384562772.png)
 
 # 新普通BOSS：核能之神
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20260305_164040_6316479137075348330.png)
+![image](20260305_164040_6316479137075348330.png)
 
 # 新增大量强化道具
 
 我们听到了大家的声音！现在击败BOSS只会掉落直接提升特工属性的道具，比如增加伤害，增加攻速，增加射程，增加投射物数量，增加红心容器等等。游戏中的成长体验将会得到更加清晰直观的反馈。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_9.18/20260305_164045_8560004439277226857.png)
+![image](20260305_164045_8560004439277226857.png)
 
 # 新增发型外观
 

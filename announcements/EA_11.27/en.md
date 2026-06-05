@@ -14,7 +14,7 @@ A reckless little maniac obsessed with chaos and thrills, dancing with fate in f
 
 *Requires completing a specific task to unlock
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_11.27/20260305_164730_6361742352424295307.png)
+![image](20260305_164730_6361742352424295307.png)
 
 # New Manager BOSS
 
@@ -26,7 +26,7 @@ In a world crisscrossed by countless fibers and signals, Hermes makes informatio
 
 **Trigger Condition:** Enter its corresponding green portal in the Safehouse
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_11.27/20260305_164736_6063554316180201373.png)
+![image](20260305_164736_6063554316180201373.png)
 
 ### Athena - Goddess of Wisdom
 
@@ -38,13 +38,13 @@ Where reality and illusion intertwine, Athena perceives every choice the world m
 
 **Trigger Condition**: Encountered on the floor after defeating Zeus
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_11.27/20260305_164740_7204223171645195581.png)
+![image](20260305_164740_7204223171645195581.png)
 
 # New Regular BOSS
 
 ### God of Stand-Up
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_11.27/20260305_164745_8777874585105901382.png)
+![image](20260305_164745_8777874585105901382.png)
 
 # New Mechanics
 
@@ -59,13 +59,13 @@ All drops are automatically assigned to players to prevent malicious sniping. Me
 * Upon generation, drops can only be collected by their original owner
 * Common drops (Coins, Bombs, Keys, etc.) become collectable after a set duration
 * Special drops like Artifacts remain exclusive until manually shared
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_11.27/20260305_164751_152398847852196850.png)
+![image](20260305_164751_152398847852196850.png)
 
 ## Visual Clutter Optimization
 
 To address potential visual chaos during combat, we've overhauled all attack effects and follower visuals. Players can now freely adjust their transparency in settings, toggling between "spectacular effects" and "clean visuals" as preferred. Find these options under **Settings > Graphics**.
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_11.27/20260305_164757_5822835507933415195.png)
+![image](20260305_164757_5822835507933415195.png)
 
 # New Content
 
@@ -81,7 +81,7 @@ To address potential visual chaos during combat, we've overhauled all attack eff
 
 # Roadmap Update
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_11.27/20260305_164801_110186568074616414.png)
+![image](20260305_164801_110186568074616414.png)
 
 **Veewo Games**
 

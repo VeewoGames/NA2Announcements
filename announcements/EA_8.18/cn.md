@@ -26,11 +26,11 @@
 
 ## **全新黑犬补丁系统**
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.18/20260305_164653_4119319182449617711.png)
+![image](20260305_164653_4119319182449617711.png)
 
 玩家每次失败均可获得一个道具组合包，助力特工荡平深渊，并体验不同道具组合带来的乐趣。（需要在进化树第一页解锁）
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.18/20260305_164657_5097964904038760816.png)
+![image](20260305_164657_5097964904038760816.png)
 
 ## **武器优化 + 高清立绘**
 
@@ -38,7 +38,7 @@
 
 所有武器均添加了高清像素版的立绘。
 
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_8.18/20260305_164702_8672827685876153435.png)
+![image](20260305_164702_8672827685876153435.png)
 
 ### 调整列表（部分内容）
 

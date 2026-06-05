@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_12.17/20260305_164844_2511724774708938177.png)
+![image](20260305_164844_2511724774708938177.png)
 
 **元旦和圣诞节即将到来，感谢大家今年的陪伴，明年还有更多的内容更新等待着大家，祝大家双节快乐！**
 
