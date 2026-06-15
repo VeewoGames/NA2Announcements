@@ -30,7 +30,7 @@ In a world crisscrossed by countless fibers and signals, Hermes makes informatio
 
 ### Athena - Goddess of Wisdom
 
-Included in the DLC "Archenemy Returns"
+Included in the ADD-ON CONTENT "Archenemy Returns"
 
 Where reality and illusion intertwine, Athena perceives every choice the world makes. Ancient strategy and modern order converge under her will—silent yet omnipresent.
 

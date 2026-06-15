@@ -1,18 +1,18 @@
 # Update Highlights
 
-* **Limited-time Free DLC "Archenemy Returns"**: After optimization, upgrades, and partial redesigns, the bosses from the original Neon Abyss are back in the abyss!
+* **Limited-time Free ADD-ON CONTENT "Archenemy Returns"**: After optimization, upgrades, and partial redesigns, the bosses from the original Neon Abyss are back in the abyss!
 * **Halloween Gift**: Log in between October 30 (after the update) and November 14 to claim the exclusive cosmetic **[Midnight Whisp]**.
 * **Supporter Pack Update**: Additional holiday-exclusive cosmetic added. From now on, you'll receive them for every festival~
 * **New Weapons**: 14 new weapons added, including 4 classic weapons from the original game.
 * **New Combat Artifacts**: 14 new artifacts that automatically assist you in battle. Their power scales with the amount of a specific resource you possess.
 * **Weapon & Item Optimizations**: Numerous weapons and items have been redesigned and optimized for smoother controls and clearer effects.
-# Limited-time Free DLC – **Archenemy** Returns
+# Limited-time Free ADD-ON CONTENT – **Archenemy** Returns
 
-**To thank our early supporters, all players who purchased the base game during Neon Abyss 2's Early Access (EA) period can claim this DLC for free. Even after EA ends, you will retain permanent access to this content.**
+**To thank our early supporters, all players who purchased the base game during Neon Abyss 2's Early Access (EA) period can claim this ADD-ON CONTENT for free. Even after EA ends, you will retain permanent access to this content.**
 
 All 34 bosses from the original Neon Abyss will gradually return to the abyss! With skill optimizations, visual upgrades, and complete redesigns for Managers, they’ve evolved into deadlier foes. Are you ready to face their wrath?
 
-*Note: Some Managers in this DLC are still undergoing optimization. We will complete them during EA and add an entirely new Manager.*
+*Note: Some Managers in this ADD-ON CONTENT are still undergoing optimization. We will complete them during EA and add an entirely new Manager.*
 
 Progress: Managers (3/11), Regular Bosses (24/24)
 

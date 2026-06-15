@@ -26,7 +26,7 @@ To help you get more keys, you can save them up and use Cassie’s special abili
 
 ### Prometheus
 
-Titan Boss (Free DLC)
+Titan Boss (Free ADD-ON CONTENT)
 
 We’re also bringing back a Titan of the first Abyss, with Prometheus making his way towards Neon Abyss 2 at an alarming rate (like, “he’s in there now and he’s gonna kick your butt” type alarming).
 
