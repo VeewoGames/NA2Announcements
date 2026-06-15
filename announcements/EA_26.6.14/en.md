@@ -7,6 +7,7 @@
 # New Blackdog Bar
 To evade Titan Group's investigation, the Blackdog Bar has relocated to a remote desert suburb, with the real bar hidden beneath the sands!
 ![](image_cec0dd1a880218df.jpg)
+
 ![](image_553fab2494607549.jpg)
 # New Agent
 ## Tino
