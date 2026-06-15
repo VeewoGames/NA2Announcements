@@ -59,3 +59,9 @@ jobs:
         # only touches announcements/ and root index.json, NEVER __auth/.
         run: ./scripts/tcb-cleanup-cos-orphans.sh ${{ matrix.tcb_env_id }} --yes --repo-root .
         continue-on-error: true
+
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "## :x: Deploy Failed - ${{ matrix.env_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "[View Run](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})" >> $GITHUB_STEP_SUMMARY
