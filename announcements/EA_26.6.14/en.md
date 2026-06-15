@@ -7,12 +7,12 @@
 # New Blackdog Bar
 To evade Titan Group's investigation, the Blackdog Bar has relocated to a remote desert suburb, with the real bar hidden beneath the sands!
 ![](image_cec0dd1a880218df.jpg)
+
 ![](image_553fab2494607549.jpg)
 # New Agent
 ## Tino
 A street-dwelling rapper whose pockets are always brimming with wonder. Using melody and flow, he blasts a trail through the neon-drenched chaos.
 ![](image_fc902a16c02512ba.jpg)
-<empty-block/>
 # New Manager Boss
 ## DARK APHRODITE - GODDESS OF SEDUCTION
 Aphrodite weaves fantasies of love into desires that never fade. The screen's light caresses her alluring silhouette, and each heartbeat is an offering at her altar.
@@ -32,4 +32,3 @@ Try it out and let us know your feedback, issues, and suggestions so we can keep
 # Roadmap
 We have already started working on the ful version! Since it involves a lot of content, as well as development and optimization across multiple platforms, we cannot guarantee a fixed update schedule during this period. We will release updates irregularly based on the actual situation until the final version 1.0 is launched.
 ![](image_a9546864dc1c14c8.png)
-<empty-block/>
