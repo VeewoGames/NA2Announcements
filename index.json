@@ -154,6 +154,18 @@
         "title": "Beta分支组队测试活动公告",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/CoopTest/cn.md"
       }
+    },
+    {
+      "group_id": "EA 26.6.14",
+      "date": "2026-06-14 00:00",
+      "default": {
+        "title": "#★ Wonder Flow",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_26.6.14/en.md"
+      },
+      "zh-CN": {
+        "title": "#★ 惊奇不断",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_26.6.14/cn.md"
+      }
     }
   ]
 }
