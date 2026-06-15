@@ -1,0 +1,54 @@
+name: Deploy Announcement to CloudBase (Dev + Prod)
+
+# Trigger: push to master (VeewoGames repo) auto-deploys both environments.
+# Runs on self-hosted runner to avoid cross-border network bottleneck
+# (GitHub-hosted runners hit tcb 'UserNetworkTooSlow' on COS upload).
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    strategy:
+      fail-fast: false   # one env failing must not abort the other
+      matrix:
+        include:
+          - env_name: dev
+            tcb_env_id: neon-backend-dev-3fx27og6365fcc6
+            secret_name: TCB_API_KEY_DEV
+          - env_name: prod
+            tcb_env_id: neon-backedn-0ge2b55rb9a113ca
+            secret_name: TCB_API_KEY_PROD
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install CloudBase CLI
+        run: npm install -g @cloudbase/cli
+
+      - name: Resolve API key for this environment
+        id: key
+        env:
+          KEY_DEV: ${{ secrets.TCB_API_KEY_DEV }}
+          KEY_PROD: ${{ secrets.TCB_API_KEY_PROD }}
+        run: |
+          case "${{ matrix.env_name }}" in
+            dev)  echo "key=$KEY_DEV"  >> "$GITHUB_OUTPUT" ;;
+            prod) echo "key=$KEY_PROD" >> "$GITHUB_OUTPUT" ;;
+          esac
+
+      - name: Login CloudBase (API Key, non-interactive)
+        run: tcb login --cloudbase-api-key ${{ steps.key.outputs.key }} -e ${{ matrix.tcb_env_id }}
+
+      - name: Strip .git before upload (avoid uploading git internals to COS)
+        run: rm -rf .git
+
+      - name: Deploy to CloudBase Static Hosting
+        run: tcb hosting deploy ./ / -e ${{ matrix.tcb_env_id }} --json
