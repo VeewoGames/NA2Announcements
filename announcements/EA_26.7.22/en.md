@@ -1,0 +1,52 @@
+# July 22 Update Announcement
+Note: This update includes adjustments to rooms, saves, online play, and resource configurations. It is recommended to complete your current game progress before updating.
+---
+### Bug Fixes
+- Fixed an issue where some Special Rooms, reward rooms, fishing rooms, and teleport rooms in Storm Raid could not teleport correctly.
+- Fixed an issue where entering a Faith Room or re-entering a Faith Room in Storm Raid online could cause the map to freeze or display incorrectly.
+- Fixed an issue where the teleport position was incorrect after escaping a stuck state in Storm Raid; now it teleports to the room center.
+- Fixed an issue where the detection range of Portal Stones in Storm Raid online was abnormal, causing some Characters or stacked items to not trigger teleportation.
+- Fixed an issue where ghost players could not be correctly teleported by portals in Storm Raid.
+- Fixed an issue where clients could abnormally purchase items for free in Hatchmon Shop Rooms in Storm Raid.
+- Fixed an issue where Host and non-Host players had inconsistent Faith collection synchronization in Abyss Invasion mode.
+- Fixed an issue where a null reference could cause a blue screen when switching Levels.
+- Fixed an issue where players could get stuck due to residual busy states when using next floor doors, switching rooms, or similar actions.
+- Fixed an issue where the battle end timing was abnormal after all players left a Challenge Room.
+- Fixed an issue where Summons left after a Boss's death prevented room clearing or progression.
+- Fixed an issue where errors caused battles or room sequences to get stuck.
+- Fixed an issue where the Host player could not collect gems after a basketball room game ended.
+- Fixed an issue where players could not operate after a dance room ended, and QTE button presses in controller mode could incorrectly trigger skills.
+- Fixed an issue with abnormal interaction permissions and state synchronization in multiplayer dance rooms.
+- Fixed an issue where a roulette Machine could spawn in an abnormal position.
+- Fixed an issue where Tokens could spawn in the wrong room.
+- Fixed an issue where Background music could be lost.
+- Fixed an issue where Blood Yeast did not trigger.
+- Fixed an issue where Wonder Jars had no effect after being thrown.
+- Fixed an issue where the Magic Eye remained after room switching, and a single charged bullet generated multiple marks.
+- Fixed an issue where Character animations could get stuck after weapon upgrade.
+- Fixed an issue where long-press interaction progress target drift during weapon Vaporize could cause the player to get stuck.
+- Fixed an issue where items thrown in online multiplayer could get stuck at the top for remote players.
+- Fixed an issue where RAGNAROK's fist mode did not fire bullets when attack speed was too high.
+- Fixed an issue where JEDON could not fire bullets while holding at full energy.
+- Fixed an issue where the damage of JINGU BANG's charged spinning staff was not affected by the corresponding damage coefficient.
+- Fixed an issue with abnormal synchronization of RAPTOR, COGDRIVE, and some affix and atlas attributes.
+- Fixed an issue where talent tree unlocks were incorrect.
+- Fixed an issue where evolution points could be incorrectly marked as consumed.
+- Fixed an issue where some rooms on the full map did not Refresh in time.
+- Fixed an issue where the scrollbar on the result screen could not scroll.
+- Fixed an issue with abnormal resource/build display on the online interface for non-Host players.
+- Fixed an issue where dialogue text could appear blank and story dialogue intervals were abnormal.
+- Fixed a save-related multilingual display error.
+- Fixed an issue where the Boss health bar name border displayed abnormally.
+### Experience Optimizations
+- Updated and optimized the configuration of multiple Levels, routes, Special Rooms, reward rooms, and room pools in Storm Raid.
+- Optimized the first Level experience and online reward configuration in Storm Raid.
+- Optimized the randomness and configuration logic of the Binary Opposition Faith Room in Storm Raid.
+- Added guaranteed drop configuration for Machines in dance rooms.
+- Optimized the timing of the Loading screen in online mode, reducing wait and drop times.
+- Optimized aiming adaptation for burrowing enemies under controller operation.
+- Adjusted Tino's skill cooldown time.
+- Added a maximum size limit for JINGU BANG's staff flower to reduce abnormal enlargement.
+- Optimized the order of weapon details and tooltips in the beginner tutorial.
+---
+- \*Veewo Games

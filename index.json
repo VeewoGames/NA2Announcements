@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "date_changed": "2026-06-26 15:43",
+  "date_changed": "2026-07-24 16:09",
   "announcements": [
     {
       "date": "2026-03-03 00:00",
@@ -177,6 +177,18 @@
       "zh-CN": {
         "title": "6月26日更新公告",
         "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_26.6.26/cn.md"
+      }
+    },
+    {
+      "group_id": "EA 26.7.22",
+      "date": "2026-07-22 00:00",
+      "default": {
+        "title": "Patch Notes 7.22",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_26.7.22/en.md"
+      },
+      "zh-CN": {
+        "title": "7月22日更新公告",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/EA_26.7.22/cn.md"
       }
     }
   ]
