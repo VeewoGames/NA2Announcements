@@ -2,6 +2,7 @@
 Agents, the wait is over!
 Neon Abyss 2 has officially reached Version 1.0, bringing Early Access to a close!
 To every agent who ventured into the Abyss during Early Access: thank you! Your suggestions and criticism have helped us keep improving the game. In the lead-up to launch, we've added new boss challenges and build options, refined the opening stages, room interactions, and music experience, and continued improving performance, controls, and the interface. Our goal is to give every agent the most complete and stable Abyss experience yet!
+
 ---
 ## Version 1.0 Highlights
 - New Titan Boss Arrives
@@ -17,34 +18,42 @@ To every agent who ventured into the Abyss during Early Access: thank you! Your 
 Titan Group's Chief Brand Officer (CBO), the ultimate authority defining beauty and trends. She turns aesthetics into shackles, blinding all with dazzling light, causing people to lose themselves chasing vanity.
 ![](image_f99222670dccb647.png)
 ![](image_9ea8dd6dbf2f01e6.png)
+
 ---
 ## Steam Achievements
 Steam Achievements are here! We've updated Steam Achievement support, and achievements whose requirements you've already met will unlock automatically.
+
 ---
 ## New Mode: Storm Breach
 The new Storm Breach mode is here! It's a simpler, faster mode where you choose your route and tackle a series of stages. It's perfect for online co-op!
 ![](image_990b9dd4f813ed9c.png)
+
 ---
 ## Agent Profiles and Elite Boss Routes
 The new Agent Profiles system is here! View each agent's unique skills, boss kill record, and highest Fate record in their profile. The Boss Route Map on the Targets page also shows challenge routes and unlock status, making it easier to plan your next challenge.
 We also added the new ??? agent! Chosse this agent will let you dive in the abyss with a random agent and an additional Artifact, bringing a few unexpected twists and little surprises to every adventure.
 ![](image_9c61efa62a6e0b5c.jpg)
+
 ---
 ## Faith and Badge Updates
 The Artisanism Faith has been reworked. Now badge will become a new Affix after crafting, it opens up more build possibilities for your beloved weapon.
 ![](image_53e3c17c8aa8db8a.jpg)
+
 ---
 ## Fishing Room Improvements
 ![](image_8fc6a3d3560cc3aa.jpg)
 - **Day/Night Cycle**: Added changing day and night scenery, skies, water reflections, and distance fog. Take a moment to enjoy the Milky Way from the Fishing Room at night.
 - **Hidden Boss**: Added a hidden boss encounter involving treasure chests. We'll leave the conditions for you to discover!
+
 ---
 ## Bar Music Player
 If you own the OST or Supporter Pack DLC, you can use the music player to play any track from the game's OST.
 ![](image_e1892b71b05b6038.png)
+
 ---
 ## Zapbit Outfit Update
 Zapbit has new outfits! This update adds several new looks, with even more surprises for Supporter Pack owners.
+
 ---
 ## Set Updates
 This update reworks some set mechanics and improves their visuals, making completed sets feel even more satisfying!
