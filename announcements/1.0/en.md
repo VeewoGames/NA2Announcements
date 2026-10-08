@@ -100,4 +100,3 @@ This update reworks some set mechanics and improves their visuals, making comple
 Version 1.0 is a new beginning. We'll keep listening to your feedback, refining the game, and bringing you more content in future updates.
 Thank you to every agent who's been with us on this journey. See you in the Abyss!
 Veewo Games
-<empty-block/>
