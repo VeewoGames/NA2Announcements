@@ -1,8 +1,8 @@
 <empty-block/>
-![](image_0ab7527aa184e2ba.jpg)
+![](image_9c8b2bf2cfcaa769.jpg)
 # Roadpmap Update #1 Rule Changer
 Today, we are excited to reveal the very first stop on the Neon Abyss 2 Roadmap. This update introduces a new agrent, brand-new features, game-changing systems, and a whole lotta bug fixes!
-![](image_7db5f98c4ea8728b.jpg)
+![](image_2f53c948f92b5459.jpg)
 # Update Summary
 - **Ban System**: Block unwanted game content and freely customize your abyss adventure.
 - **New Agent**: R-7, a powerful combat robot.
@@ -12,24 +12,24 @@ Today, we are excited to reveal the very first stop on the Neon Abyss 2 Roadmap.
 - **Item Effect Optimization**: Many item effects have been optimized and enhanced to make their functions and impact more distinct.
 # **New Ban System**
 One of the most requested features from the Neon Abyss Community is here! Make way for “The Ban System” this new feature lets players customize their runs by disabling the game elements they don’t vibe with. Don’t like a certain Faith, Weapon, Item, Relic, or even a Room? Ban it and make your runs truly your own.
-![](image_4a4c0abc2bd01b3d.png)
-![](image_426b58d6ecc1efba.png)
+![](image_5f9400061058e2dc.png)
+![](image_99184957421f4b83.png)
 # **New Agent: R-7**
 Meet R-7, the mass-produced combat robot built by Titan Group, but an unexpected malfunction gave it self-awareness. OGs of the Neon Abyss may find this sparky individual awfully familiar…is this a “*grim*” return?
-![](image_5b1eddbcbe0899da.jpg)
+![](image_f3134f8dd60e7c9f.jpg)
 <empty-block/>
 # Co-op Resource Optimization
-![](image_31e2dfc672d60ce0.jpg)
+![](image_023eae32c897c4b6.jpg)
 To address resource distribution issues in co-op play, we’ve added three new allocation strategies, allowing every player to find a team style that best fits their play.
 Players can choose one of the following team strategies in the co-op menu:
 - **Fight Alone:** In game power is drawn fully from personal resources, ideal for independent play.
 - **Balanced:** Weapon damage bonus is split evenly between personal and team resources, perfect for guiding newcomers.
 - **United Front:** Strength shared entirely through team resources for a more fully unified experience.
 # New Normal Boss: God of Nuclear
-![](image_0bbe8c29a679bca7.jpg)
+![](image_8e0d192a991006d4.jpg)
 # Added Numerous Enhancement Items
 We've heard your voices! Now defeating bosses will only drop items that directly boost agent attributes, such as increasing damage, attack speed, range, projectile count, heart containers, etc. The progression experience in the game will receive clearer and more intuitive feedback.
-![](image_61e034c93f6ffc4f.jpg)
+![](image_62c04237ef8dc241.jpg)
 # New Hairstyles
 Zapbit has stocked up! A new batch of hairstyles is now available, and agents can draw them from the Zapbit Machine.
 # Item Effect Optimization

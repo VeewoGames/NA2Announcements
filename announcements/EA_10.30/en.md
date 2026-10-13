@@ -10,7 +10,7 @@
 All 34 bosses from the original Neon Abyss will gradually return to the abyss! With skill optimizations, visual upgrades, and complete redesigns for Managers, they’ve evolved into deadlier foes. Are you ready to face their wrath?
 *Note: Some Managers in this DLC are still undergoing optimization. We will complete them during EA and add an entirely new Manager.*
 Progress: Managers (3/11), Regular Bosses (24/24)
-![](image_0ce26761df068882.png)
+![](image_4b7b4926c25e2a9f.png)
 # Happy Halloween! Claim Your Exclusive Cosmetic!
 Dear Blackdog Agents, we’ve captured a wandering ghostly pumpkin in the abyss—and it’s willing to become your new cosmetic!
 **From October 30 (post-update) to November 14,** log in to claim the limited-time cosmetic **\[Midnight Emissary\]**.
@@ -18,10 +18,10 @@ Dear Blackdog Agents, we’ve captured a wandering ghostly pumpkin in the abyss�
 To thank all Agents who purchased the Supporter Pack, we’ve prepared new gifts! (Claim it in the Bar.)
 **Agents with the Supporter Pack will receive additional variants for all past and future holiday cosmetics! No more worries about missing out on festival gifts!**
 Thank you again for your support—more gifts are coming in the future. Stay tuned!
-![](image_f155f27d367a1702.png)
+![](image_2dac6bd83ab88460.png)
 # New Weapons
 14 new weapons added, including 4 classics from the original game:
-![](image_9e35e26a274ab6b8.png)
+![](image_5fad5a9c9d3f0cbc.png)
 - **JIMMY:** Fires fishbones that split into bone spikes.
 - **FAMINE:** Fires homing piercing bullets.
 - **SENTINEL:** Sacrifices some performance but gains a homing module.
@@ -89,6 +89,7 @@ Thank you again for your support—more gifts are coming in the future. Stay tun
 - **Bouncy Mine:** Improved deployment logic—manual trigger required while flying.
 # Bug Fixes
 Due to the extensive list of fixes, we won’t detail them here. Agents can check the in-game daily patch notes for specifics.
+
 ---
 **Veewo Games**
 <empty-block/>

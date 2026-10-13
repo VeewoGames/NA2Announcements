@@ -11,13 +11,14 @@ Enhanced enemy bullet visibility and toned down player attack effects. (Ongoing 
 Added a batch of items related to attack speed, range, and additional trajectory.
 ### **Weapon HD Art**
 All weapons now feature high-definition pixel art.
+
 ---
 ## **Blackdog Patch System**
-![](image_4baf75fbe4576e58.png)
-![](image_0321c95174fa6c2d.png)
+![](image_a584468050600951.png)
+![](image_4284b8e146080efc.png)
 Each failure grants an item bundle to aid Agents in conquering the Abyss and experiencing the fun of different item combinations. (Requires unlocking on the first page of the Evolution Tree.)
 ## **Weapon Optimizations + HD Art**
-![](image_446734a05e0edcf7.png)
+![](image_8058a6858d2c6bca.png)
 Improved mechanics and handling for numerous weapons, reworked some weapons, and adjusted all weapon stats based on the new damage system. (Ongoing optimizations.)
 All weapons now feature high-definition pixel art.
 ### Adjustment List (Partial)

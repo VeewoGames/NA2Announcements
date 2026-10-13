@@ -16,8 +16,8 @@ To every agent who ventured into the Abyss during Early Access: thank you! Your 
 ## New Titan Boss
 ### **Theia — Goddess of Vanity**
 Titan Group's Chief Brand Officer (CBO), the ultimate authority defining beauty and trends. She turns aesthetics into shackles, blinding all with dazzling light, causing people to lose themselves chasing vanity.
-![](image_f99222670dccb647.png)
-![](image_9ea8dd6dbf2f01e6.png)
+![](image_3b562262649ceac1.png)
+![](image_a63d148ae14b9c8f.png)
 
 ---
 ## Steam Achievements
@@ -26,28 +26,28 @@ Steam Achievements are here! We've updated Steam Achievement support, and achiev
 ---
 ## New Mode: Storm Breach
 The new Storm Breach mode is here! It's a simpler, faster mode where you choose your route and tackle a series of stages. It's perfect for online co-op!
-![](image_990b9dd4f813ed9c.png)
+![](image_9aafed1fc0e0f0f4.png)
 
 ---
 ## Agent Profiles and Elite Boss Routes
 The new Agent Profiles system is here! View each agent's unique skills, boss kill record, and highest Fate record in their profile. The Boss Route Map on the Targets page also shows challenge routes and unlock status, making it easier to plan your next challenge.
 We also added the new ??? agent! Chosse this agent will let you dive in the abyss with a random agent and an additional Artifact, bringing a few unexpected twists and little surprises to every adventure.
-![](image_9c61efa62a6e0b5c.jpg)
+![](image_76428f6205ffd3ab.jpg)
 
 ---
 ## Faith and Badge Updates
 The Artisanism Faith has been reworked. Now badge will become a new Affix after crafting, it opens up more build possibilities for your beloved weapon.
-![](image_53e3c17c8aa8db8a.jpg)
+![](image_51a29a06c797dae2.jpg)
 
 ---
 ## Fishing Room Improvements
-![](image_8fc6a3d3560cc3aa.jpg)
+![](image_63373b81313744f8.jpg)
 - **Day/Night Cycle**: Added changing day and night scenery, skies, water reflections, and distance fog. Take a moment to enjoy the Milky Way from the Fishing Room at night.
 - **Hidden Boss**: Added a hidden boss encounter involving treasure chests. We'll leave the conditions for you to discover!
 ---
 ## Bar Music Player
 If you own the OST or Supporter Pack DLC, you can use the music player to play any track from the game's OST.
-![](image_e1892b71b05b6038.png)
+![](image_a6ee6a5ca53905e2.png)
 
 ---
 ## Zapbit Outfit Update
