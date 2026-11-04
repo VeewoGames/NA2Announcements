@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "date_changed": "2026-10-30 17:51",
+  "date_changed": "2026-11-04 14:24",
   "announcements": [
+    {
+      "group_id": "26.11.04",
+      "date": "2026-11-04 00:00",
+      "default": {
+        "title": "November 4 Update Notes",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/26.11.04/en.md"
+      },
+      "zh-CN": {
+        "title": "11 月 4 日版本更新公告",
+        "content": "https://raw.githubusercontent.com/VeewoGames/NA2Announcements/master/announcements/26.11.04/cn.md"
+      }
+    },
     {
       "group_id": "26.10.30",
       "date": "2026-10-30 00:00",
